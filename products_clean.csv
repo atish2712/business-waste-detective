@@ -1,0 +1,301 @@
+ProductID,ProductName,Category,Supplier,UnitCost,SellingPrice,StockQuantity
+2001,Product_2001,Furniture,Supplier_D,534.31,978.38,153
+2002,Product_2002,Sports,Supplier_C,642.69,1126.65,2033
+2003,Product_2003,Electronics,Supplier_B,399.32,499.15,1206
+2004,Product_2004,Electronics,Supplier_A,280.12,352.66,1104
+2005,Product_2005,Home & Kitchen,Supplier_C,509.67,768.62,1048
+2006,Product_2006,Furniture,Supplier_D,362.45,672.91,1080
+2007,Product_2007,Clothing,Supplier_C,231.7,449.79,1780
+2008,Product_2008,Sports,Supplier_A,761.74,886.58,2042
+2009,Product_2009,Electronics,Supplier_C,449.22,561.53,1771
+2010,Product_2010,Sports,Supplier_D,768.69,1193.81,2206
+2011,Product_2011,Home & Kitchen,Supplier_E,447.67,902.31,615
+2012,Product_2012,Clothing,Supplier_B,518.85,843.82,30
+2013,Product_2013,Furniture,Supplier_B,895.94,1259.88,2394
+2014,Product_2014,Furniture,Supplier_E,858.29,1305.07,1741
+2015,Product_2015,Clothing,Supplier_A,273.65,428.16,2446
+2016,Product_2016,Furniture,Supplier_C,787.04,1406.04,2298
+2017,Product_2017,Electronics,Supplier_C,375.75,469.69,1184
+2018,Product_2018,Office Supplies,Supplier_E,101.27,153.93,637
+2019,Product_2019,Furniture,Supplier_E,535.17,944.16,784
+2020,Product_2020,Home & Kitchen,Supplier_D,880.26,1249.23,68
+2021,Product_2021,Furniture,Supplier_D,877.91,1503.13,470
+2022,Product_2022,Sports,Supplier_B,148.76,221.57,1818
+2023,Product_2023,Home & Kitchen,Supplier_A,703.26,1315.65,510
+2024,Product_2024,Furniture,Supplier_A,730.44,882.06,1912
+2025,Product_2025,Furniture,Supplier_E,357.12,722.12,1452
+2026,Product_2026,Home & Kitchen,Supplier_B,606.39,796.21,2474
+2027,Product_2027,Electronics,Supplier_B,459.82,574.78,1094
+2028,Product_2028,Office Supplies,Supplier_D,235.99,459.85,2242
+2029,Product_2029,Office Supplies,Supplier_C,694.69,1372.58,1304
+2030,Product_2030,Electronics,Supplier_A,265.97,332.46,1777
+2031,Product_2031,Furniture,Supplier_B,332.79,670.0,242
+2032,Product_2032,Office Supplies,Supplier_D,203.42,286.75,288
+2033,Product_2033,Electronics,Supplier_D,658.57,823.21,920
+2034,Product_2034,Electronics,Supplier_D,434.5,543.12,938
+2035,Product_2035,Office Supplies,Supplier_C,421.3,636.85,2385
+2036,Product_2036,Home & Kitchen,Supplier_B,559.92,883.66,404
+2037,Product_2037,Clothing,Supplier_E,175.25,301.4,1629
+2038,Product_2038,Electronics,Supplier_E,812.41,1339.67,645
+2039,Product_2039,Furniture,Supplier_D,439.99,698.89,1243
+2040,Product_2040,Home & Kitchen,Supplier_D,355.21,732.32,1927
+2041,Product_2041,Sports,Supplier_C,148.95,197.47,1382
+2042,Product_2042,Clothing,Supplier_D,184.44,239.79,1734
+2043,Product_2043,Clothing,Supplier_B,831.51,1519.79,2372
+2044,Product_2044,Electronics,Supplier_D,432.69,540.86,1795
+2045,Product_2045,Sports,Supplier_D,661.08,1063.51,1288
+2046,Product_2046,Furniture,Supplier_B,109.24,175.86,861
+2047,Product_2047,Electronics,Supplier_A,593.38,741.72,1672
+2048,Product_2048,Home & Kitchen,Supplier_E,832.51,1693.26,1251
+2049,Product_2049,Home & Kitchen,Supplier_D,297.97,422.65,1767
+2050,Product_2050,Office Supplies,Supplier_B,538.06,766.21,1302
+2051,Product_2051,Electronics,Supplier_E,848.59,1060.74,2230
+2052,Product_2052,Sports,Supplier_C,658.62,848.63,757
+2053,Product_2053,Electronics,Supplier_A,93.6,117.0,360
+2054,Product_2054,Electronics,Supplier_D,365.71,457.14,1971
+2055,Product_2055,Electronics,Supplier_A,113.76,142.2,1801
+2056,Product_2056,Clothing,Supplier_D,780.73,1501.15,549
+2057,Product_2057,Office Supplies,Supplier_D,574.63,768.66,53
+2058,Product_2058,Furniture,Supplier_D,862.49,1021.06,342
+2059,Product_2059,Furniture,Supplier_A,56.99,118.31,1224
+2060,Product_2060,Furniture,Supplier_C,403.86,469.94,2006
+2061,Product_2061,Clothing,Supplier_B,129.75,267.63,366
+2062,Product_2062,Office Supplies,Supplier_B,341.42,661.46,1749
+2063,Product_2063,Sports,Supplier_C,179.22,361.39,1235
+2064,Product_2064,Office Supplies,Supplier_C,322.76,489.89,1622
+2065,Product_2065,Clothing,Supplier_D,744.57,995.74,1722
+2066,Product_2066,Sports,Supplier_D,178.2,307.6,264
+2067,Product_2067,Electronics,Supplier_B,447.35,559.19,1851
+2068,Product_2068,Home & Kitchen,Supplier_D,832.56,1060.95,152
+2069,Product_2069,Electronics,Supplier_D,898.95,1123.69,1390
+2070,Product_2070,Furniture,Supplier_C,255.55,344.52,2116
+2071,Product_2071,Electronics,Supplier_A,844.59,1055.74,1107
+2072,Product_2072,Clothing,Supplier_E,264.79,519.96,1667
+2073,Product_2073,Furniture,Supplier_E,395.63,527.67,1911
+2074,Product_2074,Home & Kitchen,Supplier_D,795.01,1096.95,1740
+2075,Product_2075,Sports,Supplier_D,716.11,866.23,1147
+2076,Product_2076,Sports,Supplier_E,777.44,1002.34,2280
+2077,Product_2077,Furniture,Supplier_C,728.22,938.82,1560
+2078,Product_2078,Electronics,Supplier_E,242.15,302.69,138
+2079,Product_2079,Office Supplies,Supplier_E,520.56,740.18,914
+2080,Product_2080,Office Supplies,Supplier_E,371.32,714.51,1285
+2081,Product_2081,Sports,Supplier_D,435.35,879.4,2347
+2082,Product_2082,Office Supplies,Supplier_D,172.4,264.8,2491
+2083,Product_2083,Furniture,Supplier_E,311.56,396.24,382
+2084,Product_2084,Office Supplies,Supplier_D,777.58,1059.55,1793
+2085,Product_2085,Clothing,Supplier_E,811.9,1501.52,1760
+2086,Product_2086,Sports,Supplier_C,564.73,1012.87,333
+2087,Product_2087,Home & Kitchen,Supplier_D,468.51,969.28,1556
+2088,Product_2088,Office Supplies,Supplier_A,653.04,759.98,1726
+2089,Product_2089,Electronics,Supplier_D,563.61,1050.13,1106
+2090,Product_2090,Clothing,Supplier_C,885.96,1444.56,291
+2091,Product_2091,Furniture,Supplier_C,203.48,408.5,1080
+2092,Product_2092,Sports,Supplier_D,426.18,723.38,1809
+2093,Product_2093,Furniture,Supplier_B,829.69,1306.21,2410
+2094,Product_2094,Home & Kitchen,Supplier_E,826.67,1473.59,2413
+2095,Product_2095,Home & Kitchen,Supplier_E,466.0,904.9,2300
+2096,Product_2096,Electronics,Supplier_C,155.94,194.92,1009
+2097,Product_2097,Home & Kitchen,Supplier_D,740.86,927.67,2483
+2098,Product_2098,Sports,Supplier_B,543.24,848.2,924
+2099,Product_2099,Sports,Supplier_A,704.92,954.32,2334
+2100,Product_2100,Furniture,Supplier_E,437.77,682.07,763
+2101,Product_2101,Clothing,Supplier_B,215.34,450.38,930
+2102,Product_2102,Electronics,Supplier_E,60.63,75.79,1905
+2103,Product_2103,Electronics,Supplier_D,520.86,942.19,1765
+2104,Product_2104,Clothing,Supplier_E,178.5,320.23,2143
+2105,Product_2105,Furniture,Supplier_A,200.94,387.75,266
+2106,Product_2106,Electronics,Supplier_D,415.22,849.92,1871
+2107,Product_2107,Electronics,Supplier_C,420.19,525.24,2380
+2108,Product_2108,Sports,Supplier_B,275.97,442.18,595
+2109,Product_2109,Clothing,Supplier_E,153.45,222.8,1635
+2110,Product_2110,Furniture,Supplier_D,852.66,1272.39,2410
+2111,Product_2111,Furniture,Supplier_D,153.21,224.87,1225
+2112,Product_2112,Electronics,Supplier_E,341.66,427.08,1003
+2113,Product_2113,Electronics,Supplier_C,302.19,377.74,2466
+2114,Product_2114,Home & Kitchen,Supplier_E,785.05,1341.12,943
+2115,Product_2115,Home & Kitchen,Supplier_C,392.65,526.9,311
+2116,Product_2116,Sports,Supplier_E,146.68,303.8,2121
+2117,Product_2117,Sports,Supplier_D,48.82,75.98,1399
+2118,Product_2118,Electronics,Supplier_A,660.88,826.1,41
+2119,Product_2119,Electronics,Supplier_A,654.47,818.09,1335
+2120,Product_2120,Clothing,Supplier_D,399.29,691.97,1072
+2121,Product_2121,Home & Kitchen,Supplier_A,148.62,214.83,1981
+2122,Product_2122,Furniture,Supplier_C,359.61,686.07,2227
+2123,Product_2123,Home & Kitchen,Supplier_D,547.3,686.67,929
+2124,Product_2124,Home & Kitchen,Supplier_C,645.39,1091.06,549
+2125,Product_2125,Electronics,Supplier_D,107.29,134.11,120
+2126,Product_2126,Electronics,Supplier_C,518.42,899.45,1333
+2127,Product_2127,Home & Kitchen,Supplier_C,277.47,376.55,2410
+2128,Product_2128,Office Supplies,Supplier_A,570.85,1075.25,1971
+2129,Product_2129,Office Supplies,Supplier_D,597.4,816.14,1921
+2130,Product_2130,Sports,Supplier_E,823.12,1642.84,598
+2131,Product_2131,Home & Kitchen,Supplier_A,392.93,773.47,1234
+2132,Product_2132,Office Supplies,Supplier_C,502.33,750.62,809
+2133,Product_2133,Electronics,Supplier_C,270.67,410.48,1386
+2134,Product_2134,Sports,Supplier_E,286.44,520.3,2192
+2135,Product_2135,Home & Kitchen,Supplier_E,79.59,98.36,1651
+2136,Product_2136,Sports,Supplier_C,286.02,350.91,1403
+2137,Product_2137,Electronics,Supplier_E,94.89,121.41,522
+2138,Product_2138,Electronics,Supplier_B,868.97,1463.65,192
+2139,Product_2139,Electronics,Supplier_A,576.87,745.06,906
+2140,Product_2140,Furniture,Supplier_D,188.91,267.07,1437
+2141,Product_2141,Electronics,Supplier_E,140.42,247.78,2187
+2142,Product_2142,Electronics,Supplier_E,358.31,417.37,292
+2143,Product_2143,Home & Kitchen,Supplier_B,304.58,402.42,1429
+2144,Product_2144,Office Supplies,Supplier_D,280.16,569.69,877
+2145,Product_2145,Office Supplies,Supplier_B,442.65,788.09,1930
+2146,Product_2146,Electronics,Supplier_D,825.07,1188.33,1977
+2147,Product_2147,Electronics,Supplier_A,528.52,630.54,280
+2148,Product_2148,Electronics,Supplier_E,488.26,833.34,1372
+2149,Product_2149,Sports,Supplier_A,733.63,999.0,1167
+2150,Product_2150,Home & Kitchen,Supplier_D,43.46,89.62,1519
+2151,Product_2151,Home & Kitchen,Supplier_E,209.75,378.1,297
+2152,Product_2152,Home & Kitchen,Supplier_B,466.72,968.64,2160
+2153,Product_2153,Office Supplies,Supplier_C,646.57,1264.98,842
+2154,Product_2154,Furniture,Supplier_B,457.12,735.45,2195
+2155,Product_2155,Office Supplies,Supplier_C,180.8,322.92,551
+2156,Product_2156,Home & Kitchen,Supplier_B,839.79,1613.66,186
+2157,Product_2157,Clothing,Supplier_D,322.65,548.27,850
+2158,Product_2158,Furniture,Supplier_A,717.87,867.48,255
+2159,Product_2159,Electronics,Supplier_C,806.62,1288.11,1075
+2160,Product_2160,Sports,Supplier_D,337.95,430.56,1274
+2161,Product_2161,Office Supplies,Supplier_A,766.97,1402.87,210
+2162,Product_2162,Sports,Supplier_A,651.27,1170.07,632
+2163,Product_2163,Furniture,Supplier_E,817.68,1711.62,1551
+2164,Product_2164,Clothing,Supplier_E,256.13,447.55,2322
+2165,Product_2165,Furniture,Supplier_E,840.9,1606.23,1743
+2166,Product_2166,Office Supplies,Supplier_C,96.16,135.09,992
+2167,Product_2167,Electronics,Supplier_C,722.56,1064.35,668
+2168,Product_2168,Electronics,Supplier_A,414.67,838.12,125
+2169,Product_2169,Home & Kitchen,Supplier_C,192.99,360.4,1624
+2170,Product_2170,Home & Kitchen,Supplier_A,108.29,191.94,211
+2171,Product_2171,Office Supplies,Supplier_D,375.01,521.76,1022
+2172,Product_2172,Home & Kitchen,Supplier_B,374.82,679.79,1321
+2173,Product_2173,Home & Kitchen,Supplier_A,237.76,473.72,1587
+2174,Product_2174,Office Supplies,Supplier_A,225.34,308.55,2242
+2175,Product_2175,Office Supplies,Supplier_D,383.58,698.43,1813
+2176,Product_2176,Clothing,Supplier_E,392.7,598.48,654
+2177,Product_2177,Home & Kitchen,Supplier_E,420.43,530.93,104
+2178,Product_2178,Furniture,Supplier_E,787.13,1476.1,2031
+2179,Product_2179,Electronics,Supplier_A,565.68,740.35,747
+2180,Product_2180,Sports,Supplier_A,57.57,80.04,1080
+2181,Product_2181,Electronics,Supplier_C,486.43,921.2,1707
+2182,Product_2182,Office Supplies,Supplier_C,695.71,1290.56,1619
+2183,Product_2183,Sports,Supplier_B,88.52,123.17,89
+2184,Product_2184,Office Supplies,Supplier_B,403.44,824.6,173
+2185,Product_2185,Clothing,Supplier_C,428.04,579.79,1481
+2186,Product_2186,Home & Kitchen,Supplier_A,860.46,1801.75,2338
+2187,Product_2187,Office Supplies,Supplier_D,449.09,831.27,2039
+2188,Product_2188,Office Supplies,Supplier_C,684.91,1043.04,1117
+2189,Product_2189,Electronics,Supplier_A,300.5,382.79,590
+2190,Product_2190,Home & Kitchen,Supplier_C,710.2,1032.97,168
+2191,Product_2191,Clothing,Supplier_E,317.49,423.55,2077
+2192,Product_2192,Office Supplies,Supplier_C,409.82,713.39,2129
+2193,Product_2193,Electronics,Supplier_E,452.35,673.55,1431
+2194,Product_2194,Office Supplies,Supplier_A,836.67,1196.65,1938
+2195,Product_2195,Electronics,Supplier_E,85.97,160.7,793
+2196,Product_2196,Office Supplies,Supplier_C,209.31,286.56,1773
+2197,Product_2197,Office Supplies,Supplier_E,646.94,1104.68,1891
+2198,Product_2198,Electronics,Supplier_D,536.72,716.45,1593
+2199,Product_2199,Office Supplies,Supplier_E,256.32,468.82,1732
+2200,Product_2200,Home & Kitchen,Supplier_E,288.71,503.47,1364
+2201,Product_2201,Home & Kitchen,Supplier_B,355.89,679.13,1126
+2202,Product_2202,Electronics,Supplier_D,427.3,519.2,36
+2203,Product_2203,Electronics,Supplier_A,743.5,1003.43,2436
+2204,Product_2204,Sports,Supplier_E,51.88,67.27,1711
+2205,Product_2205,Electronics,Supplier_D,812.3,1081.2,602
+2206,Product_2206,Sports,Supplier_A,395.2,493.16,274
+2207,Product_2207,Clothing,Supplier_D,238.23,401.17,580
+2208,Product_2208,Office Supplies,Supplier_B,477.23,817.86,1435
+2209,Product_2209,Clothing,Supplier_A,607.32,1185.07,339
+2210,Product_2210,Home & Kitchen,Supplier_A,78.49,121.41,239
+2211,Product_2211,Electronics,Supplier_E,655.57,1085.47,718
+2212,Product_2212,Sports,Supplier_C,694.25,1452.19,1457
+2213,Product_2213,Electronics,Supplier_A,182.92,302.78,51
+2214,Product_2214,Clothing,Supplier_A,184.38,312.51,734
+2215,Product_2215,Home & Kitchen,Supplier_B,215.25,451.19,1059
+2216,Product_2216,Electronics,Supplier_B,725.1,1518.67,428
+2217,Product_2217,Home & Kitchen,Supplier_B,273.92,425.35,2240
+2218,Product_2218,Sports,Supplier_E,724.5,1270.19,955
+2219,Product_2219,Home & Kitchen,Supplier_A,504.85,811.17,1147
+2220,Product_2220,Electronics,Supplier_B,699.77,1283.85,1360
+2221,Product_2221,Furniture,Supplier_B,516.16,1053.72,726
+2222,Product_2222,Sports,Supplier_D,328.76,474.79,802
+2223,Product_2223,Office Supplies,Supplier_D,823.21,1587.09,1224
+2224,Product_2224,Sports,Supplier_B,655.15,1161.0,2199
+2225,Product_2225,Sports,Supplier_E,456.29,646.19,1198
+2226,Product_2226,Office Supplies,Supplier_C,588.19,1121.93,2426
+2227,Product_2227,Sports,Supplier_D,569.63,886.22,1278
+2228,Product_2228,Electronics,Supplier_D,347.98,439.98,184
+2229,Product_2229,Home & Kitchen,Supplier_A,404.44,846.79,2494
+2230,Product_2230,Electronics,Supplier_A,313.7,487.6,232
+2231,Product_2231,Electronics,Supplier_B,899.59,1497.34,1968
+2232,Product_2232,Furniture,Supplier_A,538.86,1033.3,785
+2233,Product_2233,Sports,Supplier_A,119.17,245.83,2224
+2234,Product_2234,Furniture,Supplier_C,486.43,962.76,1221
+2235,Product_2235,Clothing,Supplier_E,82.97,136.8,1839
+2236,Product_2236,Home & Kitchen,Supplier_B,288.24,480.9,664
+2237,Product_2237,Electronics,Supplier_C,423.53,600.08,1680
+2238,Product_2238,Electronics,Supplier_B,499.47,793.99,2379
+2239,Product_2239,Sports,Supplier_E,879.52,1802.57,1875
+2240,Product_2240,Electronics,Supplier_B,884.71,1628.39,146
+2241,Product_2241,Clothing,Supplier_A,124.34,144.39,396
+2242,Product_2242,Office Supplies,Supplier_E,502.79,633.86,244
+2243,Product_2243,Electronics,Supplier_C,742.71,1505.93,516
+2244,Product_2244,Electronics,Supplier_C,244.43,478.17,2036
+2245,Product_2245,Furniture,Supplier_D,685.48,1104.9,492
+2246,Product_2246,Electronics,Supplier_C,795.61,1381.28,1908
+2247,Product_2247,Electronics,Supplier_D,609.74,868.98,1180
+2248,Product_2248,Electronics,Supplier_A,321.82,612.48,236
+2249,Product_2249,Sports,Supplier_C,833.89,1436.92,215
+2250,Product_2250,Office Supplies,Supplier_E,799.83,1447.76,2268
+2251,Product_2251,Electronics,Supplier_D,655.61,987.46,385
+2252,Product_2252,Office Supplies,Supplier_C,352.75,549.91,1571
+2253,Product_2253,Office Supplies,Supplier_A,721.03,971.44,2467
+2254,Product_2254,Clothing,Supplier_E,311.85,639.5,1568
+2255,Product_2255,Furniture,Supplier_E,257.54,527.76,233
+2256,Product_2256,Electronics,Supplier_A,482.91,930.5,2408
+2257,Product_2257,Electronics,Supplier_C,897.54,1829.88,138
+2258,Product_2258,Electronics,Supplier_B,731.72,1303.97,1736
+2259,Product_2259,Office Supplies,Supplier_C,667.62,916.59,861
+2260,Product_2260,Home & Kitchen,Supplier_D,428.73,802.67,1692
+2261,Product_2261,Furniture,Supplier_D,308.28,449.78,1222
+2262,Product_2262,Sports,Supplier_C,776.07,1217.23,1475
+2263,Product_2263,Electronics,Supplier_D,528.25,745.17,1763
+2264,Product_2264,Home & Kitchen,Supplier_B,739.4,1147.87,964
+2265,Product_2265,Home & Kitchen,Supplier_B,459.47,824.91,2469
+2266,Product_2266,Home & Kitchen,Supplier_E,688.4,864.0,585
+2267,Product_2267,Furniture,Supplier_D,786.26,982.78,2491
+2268,Product_2268,Electronics,Supplier_C,376.6,677.72,137
+2269,Product_2269,Sports,Supplier_E,51.67,97.69,387
+2270,Product_2270,Electronics,Supplier_B,259.24,433.94,1149
+2271,Product_2271,Sports,Supplier_E,826.83,1093.53,1937
+2272,Product_2272,Electronics,Supplier_A,631.29,984.32,2215
+2273,Product_2273,Clothing,Supplier_D,674.01,1260.58,1909
+2274,Product_2274,Office Supplies,Supplier_C,319.75,576.01,2217
+2275,Product_2275,Home & Kitchen,Supplier_B,643.09,806.67,835
+2276,Product_2276,Sports,Supplier_E,595.8,1233.72,2323
+2277,Product_2277,Office Supplies,Supplier_C,193.4,263.45,2149
+2278,Product_2278,Office Supplies,Supplier_D,873.07,1186.83,2083
+2279,Product_2279,Office Supplies,Supplier_C,344.46,546.61,920
+2280,Product_2280,Office Supplies,Supplier_D,323.19,472.14,212
+2281,Product_2281,Office Supplies,Supplier_D,357.48,745.27,1117
+2282,Product_2282,Electronics,Supplier_D,118.88,145.35,1104
+2283,Product_2283,Furniture,Supplier_E,577.47,832.2,970
+2284,Product_2284,Electronics,Supplier_D,245.22,371.16,2410
+2285,Product_2285,Home & Kitchen,Supplier_C,730.85,1183.09,2462
+2286,Product_2286,Electronics,Supplier_A,378.97,441.72,1389
+2287,Product_2287,Sports,Supplier_C,434.36,533.5,1404
+2288,Product_2288,Electronics,Supplier_E,595.92,831.26,2167
+2289,Product_2289,Office Supplies,Supplier_D,695.21,1165.38,1243
+2290,Product_2290,Furniture,Supplier_A,238.76,448.72,2203
+2291,Product_2291,Home & Kitchen,Supplier_E,871.01,1569.71,2523
+2292,Product_2292,Sports,Supplier_B,575.2,971.33,2218
+2293,Product_2293,Clothing,Supplier_B,44.85,68.5,1839
+2294,Product_2294,Electronics,Supplier_B,397.44,785.8,2193
+2295,Product_2295,Clothing,Supplier_A,415.66,659.56,1900
+2296,Product_2296,Home & Kitchen,Supplier_C,735.88,1055.47,2905
+2297,Product_2297,Electronics,Supplier_A,302.42,528.59,2502
+2298,Product_2298,Home & Kitchen,Supplier_A,324.85,587.17,1912
+2299,Product_2299,Electronics,Supplier_A,100.62,153.8,2608
+2300,Product_2300,Sports,Supplier_B,283.85,334.02,1836
