@@ -36,11 +36,11 @@ st.set_page_config(
 @st.cache_data
 def load_data():
 
-    customers = pd.read_csv("Data/customers_clean.csv")
-    products = pd.read_csv("Data/products_clean.csv")
-    orders = pd.read_csv("Data/orders_clean.csv")
-    returns = pd.read_csv("Data/returns_clean.csv")
-    inventory = pd.read_csv("Data/inventory_clean.csv")
+    customers = pd.read_csv("customers_clean.csv")
+    products = pd.read_csv("products_clean.csv")
+    orders = pd.read_csv("orders_clean.csv")
+    returns = pd.read_csv("returns_clean.csv")
+    inventory = pd.read_csv("inventory_clean.csv")
 
     return customers, products, orders, returns, inventory
 
